@@ -1,10 +1,10 @@
 # NetXD-demo
 Learning the git
 
-#git learning
+# git learning
 git clone <repository>
 
-#1. List of git commands
+# 1. List of git commands
 
 git add --all
 
@@ -18,16 +18,16 @@ incase of conflicts resolved
 
 git push
 
-#git branching strategies
+# git branching strategies
 
 git checkout -b <branch name>
 
 you can apply all the commands in the list #1
 
-#To publish the branch
+# To publish the branch
 
 git push -u origin <branch name>
 
-#To go to the main branch
+# To go to the main branch
 
 git checkout <branch name>
